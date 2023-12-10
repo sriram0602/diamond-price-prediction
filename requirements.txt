@@ -4,6 +4,7 @@ numpy
 seaborn
 ipykernel
 Flask
+-e .
 #this is more stable version
 #mlflow==2.2.2
 #dvc
