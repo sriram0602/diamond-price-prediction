@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ineuron/diamond-price-prediction/mlruns/0/ee4065d41d7e45e899d63fd78438e290/artifacts
+end_time: 1703078052052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee4065d41d7e45e899d63fd78438e290
+run_name: luminous-roo-319
+run_uuid: ee4065d41d7e45e899d63fd78438e290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703077974241
+status: 3
+tags: []
+user_id: Admin

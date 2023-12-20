@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ineuron/diamond-price-prediction/mlruns/0/0545a34ca6f946b2a7fcc0ebca5da7fc/artifacts
+end_time: 1703078451703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0545a34ca6f946b2a7fcc0ebca5da7fc
+run_name: serious-rat-103
+run_uuid: 0545a34ca6f946b2a7fcc0ebca5da7fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703078300408
+status: 3
+tags: []
+user_id: Admin

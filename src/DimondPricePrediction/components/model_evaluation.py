@@ -36,7 +36,7 @@ class ModelEvaluation:
             
             tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
             
-            print(tracking_url_type_store)
+            print("tracking_url_type_store",tracking_url_type_store)
 
 
 
